@@ -13,3 +13,11 @@
 - Consumo de api via axios.
 - Uso de switch case.
 
+<br><br>
+
+
+# Demonstração do funcionamento
+
+
+![](weather%20app.gif)
+
